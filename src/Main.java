@@ -14,7 +14,7 @@ public class Main {
                 + authorFahrenheit451.getLastNameAuthor() + ". Название - " + fahrenheit451.getNameBook() +
                 ". Год издания - " + fahrenheit451.getYear() + ".");
 
-        fahrenheit451.setYear(2017);
+        fahrenheit451.setYear(2018);
         System.out.println("Автор книги - " + authorFahrenheit451.getNameAuthor() + " "
                 + authorFahrenheit451.getLastNameAuthor() + ". Название - " + fahrenheit451.getNameBook() +
                 ". Год издания - " + fahrenheit451.getYear() + ".");
